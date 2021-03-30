@@ -1074,5 +1074,10 @@
         }
       }
     ]
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "codiceovvio/atom-git-control",
+    "sha": "249031dc42ac3761f8a8afe3bdaf2cfdc5ef08da"
   }
 }
